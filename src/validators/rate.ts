@@ -1,4 +1,4 @@
-class AgencyValidator {
+class RateValidator {
   public date: string;
 
   public errors: string;
@@ -25,4 +25,4 @@ class AgencyValidator {
   }
 }
 
-export { AgencyValidator };
+export { RateValidator };
