@@ -2,3 +2,8 @@ export { DateValidator } from "./date";
 export { EmailValidator } from "./email";
 export { NameValidator } from "./name";
 export { UserDataValidator } from "./user-data";
+export { AccontValidator } from "./account";
+export { AgencyValidator } from "./agency";
+export { CashValidator } from "./cash";
+export { DocumentValidator } from "./document";
+export { RateValidator } from "./rate";

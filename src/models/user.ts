@@ -4,7 +4,7 @@ interface User
     name: string
     email: string
     birthdate: string
-    document: string // cpf
+    document: string
     password: string
 }
 
